@@ -27,7 +27,13 @@ Logros:
 - Estilos y experiencia de usuario con css puro, Bootstrap, material UI, entre otras.
 
 Datos de contacto:
-davidcasti182@gmail.com
-www.linkedin.com/in/david-castillejo-guisao-7174a121a
+
+**Correo electronico:** davidcasti182@gmail.com
+
+<p align="left">
+<a href="https://www.linkedin.com/in/david-castillejo-guisao-7174a121a" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/felipe-tau/" height="30" width="40" />
+</a>
+</p>
 
 
