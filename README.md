@@ -10,8 +10,7 @@ Cuento con gran habilidad para formar buenas relaciones interpersonales, logrand
 Sequelize
 Material UI
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davidbg182&show_icons=true&locale=en&hide=stars&theme=github_dark" alt="Feli-dev" /></p> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davidcg182&show_icons=true&locale=en&hide=stars&theme=github_dark" alt="Feli-dev" /></p> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidcg182&layout=compact)](#)
 
