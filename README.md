@@ -1,7 +1,7 @@
 ### Hola 👋, soy David Castillejo 👨🏻‍💻
 
 <h3>Sobre mi:</h3>
-<p>Desarrollador web Full stack y profesional en Biotecnología con experiencia académica realizando proyectos web, utilizando Javascript como principal lenguaje de programación con tecnologías como React.js, Redux, Node.js, express, HTML, CSS, mongo DB, PostgreSQL y sequielize, culminándolos de manera exitosa, además, cuento con experiencia en gestión de proyectos en diferentes industrias cumpliendo los objetivos en el tiempo establecido.
+<p>Desarrollador web Full stack con experiencia realizando proyectos web, utilizando Javascript como principal lenguaje de programación con tecnologías como React.js, Redux, Node.js, express, HTML, CSS, mongo DB, PostgreSQL y sequielize, culminándolos de manera exitosa, además, cuento con experiencia en gestión de proyectos en diferentes industrias cumpliendo los objetivos en el tiempo establecido.
 Cuento con gran habilidad para formar buenas relaciones interpersonales, logrando un buen trabajo en equipo y desempeño, siendo proactivo, organizado y responsable.</p>
 
 <h3 align="left">Tecnologias dominadas:</h3>
@@ -13,10 +13,10 @@ Cuento con gran habilidad para formar buenas relaciones interpersonales, logrand
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidcg182&layout=compact)](#)
 
 <h3>Proyectos:</h3>
-<p>Realización de tres proyectos prácticos durante el curso, aplicando los conocimientos adquiridos, desde el desarrollo hasta el ambiente de producción.
+<p>Realización de cinco proyectos 3 academicos y 2 en industria, aplicando los conocimientos adquiridos, desde el desarrollo hasta el ambiente de producción.
 Logros:
-- Configuración de bases de datos relacionales (PostgreSQL) y no relacionales (Mongo DB)
-- Construcción del CRUD para cada uno de los modelos implementados, utilizando Node.js y Express, los cuales incluía filtros combinados.
+- Configuración de bases de datos relacionales y no relacionales, creacion de tablas, modelos y relaciones
+- Creacion de servicios utilizados en el front para cada uno de los modelos implementados, utilizando Node.js, Express, sequelize (segun la DB).
 - Creación de componentes de bienvenida, pagina principal, formularios controlados, filtrados y ordenamientos, paginados y detalle de productos utilizando React y Redux.- Construcción de un panel exclusivo de administrador utilizando material UI.
 - Implementación de autenticación de terceros utilizando auth0
 - Implementación de la pasarela de pagos integrada utilizando stripe y mercadopago.
