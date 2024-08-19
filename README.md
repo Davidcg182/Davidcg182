@@ -17,11 +17,11 @@ Cuento con gran habilidad para formar buenas relaciones interpersonales, logrand
 Logros:</br>
 - Configuración de bases de datos relacionales y no relacionales, creacion de tablas, modelos y relaciones</br>
 - Creacion de servicios utilizados en el front para cada uno de los modelos implementados, utilizando Node.js, Express, sequelize (segun la DB).</br>
-- Creación de componentes de bienvenida, pagina principal, formularios controlados, filtrados y ordenamientos, paginados y detalle de productos utilizando React y Redux.- Construcción de un panel exclusivo de administrador utilizando material UI.
-- Implementación de autenticación de terceros utilizando auth0
-- Implementación de la pasarela de pagos integrada utilizando stripe y mercadopago.
-- Notificaciones en tiempo real utilizando socket io.
-- Manejo de archivos multimedia con cloudinary.
+- Creación de componentes de bienvenida, pagina principal, formularios controlados, filtrados y ordenamientos, paginados y detalle de productos utilizando React y Redux.- Construcción de un panel exclusivo de administrador utilizando material UI.</br>
+- Implementación de autenticación de terceros utilizando auth0</br>
+- Implementación de la pasarela de pagos integrada utilizando stripe y mercadopago.</br>
+- Notificaciones en tiempo real utilizando socket io.</br>
+- Manejo de archivos multimedia con cloudinary.</br>
 - Estilos y experiencia de usuario con css puro, Bootstrap, material UI, entre otras.</p>
 
 <h3>Datos de contacto:</h3>
