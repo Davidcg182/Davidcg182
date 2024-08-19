@@ -13,10 +13,10 @@ Cuento con gran habilidad para formar buenas relaciones interpersonales, logrand
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidcg182&layout=compact)](#)
 
 <h3>Proyectos:</h3>
-<p>Realización de cinco proyectos 3 academicos y 2 en industria, aplicando los conocimientos adquiridos, desde el desarrollo hasta el ambiente de producción.\n
-Logros:\n
-- Configuración de bases de datos relacionales y no relacionales, creacion de tablas, modelos y relaciones\n
-- Creacion de servicios utilizados en el front para cada uno de los modelos implementados, utilizando Node.js, Express, sequelize (segun la DB).\n
+<p>Realización de cinco proyectos 3 academicos y 2 en industria, aplicando los conocimientos adquiridos, desde el desarrollo hasta el ambiente de producción.</br>
+Logros:</br>
+- Configuración de bases de datos relacionales y no relacionales, creacion de tablas, modelos y relaciones</br>
+- Creacion de servicios utilizados en el front para cada uno de los modelos implementados, utilizando Node.js, Express, sequelize (segun la DB).</br>
 - Creación de componentes de bienvenida, pagina principal, formularios controlados, filtrados y ordenamientos, paginados y detalle de productos utilizando React y Redux.- Construcción de un panel exclusivo de administrador utilizando material UI.
 - Implementación de autenticación de terceros utilizando auth0
 - Implementación de la pasarela de pagos integrada utilizando stripe y mercadopago.
